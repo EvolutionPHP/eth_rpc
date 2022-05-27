@@ -1,7 +1,7 @@
 {
   "name": "amendozadev/eth_rpc",
   "description": "Create Ethereum wallet and/or connect to JSON-RPC Endpoint from Ethereum or compatibles like BSC",
-  "license": "GNU Public License",
+  "license": "MIT",
   "type": "library",
   "keywords": [
     "ethereum",
