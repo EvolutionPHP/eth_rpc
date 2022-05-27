@@ -1,0 +1,33 @@
+{
+  "name": "amendozadev/eth_rpc",
+  "description": "Create Ethereum wallet and/or connect to JSON-RPC Endpoint from Ethereum or compatibles like BSC",
+  "license": "GNU Public License",
+  "type": "library",
+  "keywords": [
+    "ethereum",
+    "rpc",
+    "wallet",
+    "binance"
+  ],
+  "authors": [
+    {
+      "name": "Andres Mendoza",
+      "homepage": "https://twitter.com/AnakinMoonwalkr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "aMendoza\\Eth_rpc\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.4.3",
+    "krowinski/bcmath-extended": "^6.0.1",
+    "sop/crypto-encoding": "^0.2.0",
+    "sop/crypto-types": "^0.2.1",
+    "kornrunner/keccak": "^1.0",
+    "kornrunner/ethereum-offline-raw-tx": "^0.4.0",
+    "simplito/elliptic-php": "^1.0.9"
+  }
+}
