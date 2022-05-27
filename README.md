@@ -58,4 +58,4 @@ try {
 
 [Ethereum]: https://etherscan.io/address/0x05836377EB43a0Fe0d88C0D75E101396eAbbb8fb "Donate with Ethereum"
 
-[Binance]: https://etherscan.io/address/0x9C2E46Ca7FA1F483C7CE40a415801351a73FEd90 "Donate with Binance Smart Chain"
+[Binance]: https://bscscan.com/address/0x9C2E46Ca7FA1F483C7CE40a415801351a73FEd90 "Donate with Binance Smart Chain"
